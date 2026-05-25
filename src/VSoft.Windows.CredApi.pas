@@ -23,7 +23,7 @@ type
   {$LEGACYIFEND ON}
 {$IFEND}
 
-{$IF CompilerVersion < 33.0}
+{$IF CompilerVersion < 34.0}
 type
   NTSTATUS = LONG;
 
